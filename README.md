@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miguelprzc
+- 👋 Hi, I’m @miguelprzc, an electrical engineer and a software developper
 - 👀 I’m interested in providing solutions with my knowledge by building amazing a useful aplications 
 - 🌱 I’m currently learning about React to empower the way that I build websites
 - 💞️ I’m looking to collaborate on interesting projects that let me polish my skills
