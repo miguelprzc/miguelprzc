@@ -2,7 +2,7 @@
 - 👀 I’m interested in providing solutions with my knowledge by building amazing and useful aplications 
 - 🌱 I’m currently learning about React to empower the way that I build websites
 - 💞️ I’m looking to collaborate on interesting projects that let me polish my skills
-- 📫 How to reach me? You find me on <a href="https://www.linkedin.com/in/miguel-perez-contreras/" target="_blank">LinkedIn</a>.
+- 📫 How to reach me? You can find me on <a href="https://www.linkedin.com/in/miguel-perez-contreras/" target="_blank">LinkedIn</a>.
 
 <!---
 miguelprzc/miguelprzc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
